@@ -125,8 +125,3 @@ It showcases my understanding of **professional communication and workplace read
 > I now understand how to behave professionally in a corporate environment and how etiquette contributes to teamwork and career success.
 
 ---
-
-## 🔗 Additional Links
-- [💼 LinkedIn Profile][(https://www.linkedin.com/in/yourprofile)](https://www.linkedin.com/in/katie-tolo-bb85b2269/)  
-- [📄 Download My CV (PDF)](https://your-cv-link.com)  
-- [📧 Email Me](mailto:yourname@email.com)
