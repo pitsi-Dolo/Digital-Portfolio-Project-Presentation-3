@@ -24,16 +24,18 @@ It showcases my understanding of **professional communication and workplace read
 ### 🔁 Reflection (Using STAR Technique)
 
 > **🟦 S – Situation:**  
-> During a communication workshop, I realized that my written and verbal communication needed improvement when preparing reports or speaking in meetings.
+> During the business communication workshop, I realized that my written and verbal communication skills needed improvement. I often struggled to convey technical information in a simple and professional way during reports and presentations.
 
 > **🟨 T – Task:**  
-> I needed to apply effective business communication principles to write a professional email and deliver a short presentation.
+> I was required to apply proper communication techniques to write a professional business email, compile a short report, and deliver a short presentation on a workplace topic.
 
 > **🟩 A – Action:**  
-> I practiced concise writing, used a formal tone, and structured my presentation clearly using visual aids. I also incorporated feedback from my lecturer.
+> I reviewed CPUT’s business writing guide, focused on using concise and professional language, and practiced structuring my email and presentation logically.
+I incorporated lecturer feedback on tone, clarity, and structure. I also rehearsed my presentation multiple times to improve my pacing and confidence.
 
 > **🟥 R – Result:**  
-> My communication became clearer and more professional. I am now more confident writing reports and delivering presentations in a business environment.
+> My communication improved significantly — I learned to adapt my writing style for professional audiences and speak confidently during meetings or presentations.
+I now understand that clear communication is essential for collaboration, leadership, and client relations in the ICT field.
 
 ---
 
@@ -46,16 +48,18 @@ It showcases my understanding of **professional communication and workplace read
 ### 🔁 Reflection (Using STAR Technique)
 
 > **🟦 S – Situation:**  
-> I needed to prepare for future job interviews but was nervous about answering behavioral questions.
+> I was preparing for internship opportunities but felt anxious about answering interview questions and maintaining confidence under pressure.
 
 > **🟨 T – Task:**  
-> My goal was to learn how to answer interview questions confidently using the STAR technique.
+> My goal was to understand interview structures and learn techniques to respond to competency-based questions using the STAR method.
 
 > **🟩 A – Action:**  
-> I attended an interview skills session, practiced answering common questions, and rehearsed with a peer while recording my responses for feedback.
+> I participated in a mock interview preparation class, researched common ICT interview questions, and practiced answering them aloud.
+I also watched example interviews online, recorded my responses, and reviewed them to improve my tone, posture, and confidence.
 
 > **🟥 R – Result:**  
-> I learned to structure my answers using STAR, which made my responses clearer and more professional. I now feel confident and prepared for real interviews.
+>I learned to organize my thoughts and give structured, concise answers using STAR. My self-awareness improved, and I became more confident in expressing my skills and achievements during interviews.
+> This experience taught me the importance of preparation, active listening, and body language in making a strong professional impression.
 
 ---
 
@@ -71,13 +75,15 @@ It showcases my understanding of **professional communication and workplace read
 > I participated in a mock interview organized as part of the work readiness training.
 
 > **🟨 T – Task:**  
-> I had to simulate a real interview, demonstrating communication, confidence, and professionalism.
+> I had to present myself professionally, answer questions confidently, and demonstrate communication, problem-solving, and critical thinking skills.
 
 > **🟩 A – Action:**  
-> I dressed professionally, researched the “company” beforehand, and practiced good body language. I also reflected on the feedback received afterward.
+> I prepared by researching the “company” and its values, reviewed my CV, and practiced answering common technical and behavioral questions.
+> During the mock interview, I maintained eye contact, smiled, and spoke clearly. Afterward, I asked for feedback from the interviewer and noted areas for improvement
 
 > **🟥 R – Result:**  
-> The experience improved my confidence and helped me identify areas for growth, such as pausing before answering and maintaining eye contact.
+> The mock interview improved my readiness for real interviews. I became more confident, learned how to manage stress, and developed better posture and articulation.
+I also learned that preparation and authenticity make a lasting impression in professional interviews.
 
 ---
 
@@ -90,16 +96,18 @@ It showcases my understanding of **professional communication and workplace read
 ### 🔁 Reflection (Using STAR Technique)
 
 > **🟦 S – Situation:**  
-> I needed to build a professional online presence and grow my network in the ICT field.
+> I realized that networking is essential for career growth in ICT, yet I had not built any online professional presence.
 
 > **🟨 T – Task:**  
-> My task was to create or update my LinkedIn profile and connect with professionals in my field.
+>I needed to create or update a LinkedIn profile and begin engaging with industry professionals, alumni, and potential employers.
 
 > **🟩 A – Action:**  
-> I updated my profile with my CV details, joined ICT-related groups, and connected with classmates, alumni, and industry professionals.
+> I updated my LinkedIn profile with a professional photo, summary, and detailed information about my skills, projects, and education.
+I followed technology-related pages, joined ICT discussion groups, and connected with peers and professionals. I also engaged by commenting on posts related to software development and innovation.
 
 > **🟥 R – Result:**  
-> I developed a strong LinkedIn profile and received several helpful insights from professionals. I now understand the value of online networking for career growth.
+>My profile became more professional and visible. I gained valuable connections, insights into the ICT industry, and even mentorship advice from professionals.
+I learned that consistent networking can lead to learning opportunities, internships, and long-term career success.
 
 ---
 
