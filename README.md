@@ -1,5 +1,8 @@
 # 💼 Digital Portfolio – Project Presentation 3 (PRP370S)
 ### Final Summative Assessment (FSA) – November 2025
+**Subject:** Project Presentation 3 (PRP370S)  
+**Student Name:** Katie Khezani Tolo 
+**Student Number:** 222831960 
 
 This portfolio forms part of the final assessment for the Diploma in ICT at CPUT.  
 It showcases my understanding of **professional communication and workplace readiness**, demonstrated through evidence and STAR (Situation, Task, Action, Result) reflections.
